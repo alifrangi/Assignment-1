@@ -5,10 +5,12 @@ body, h1, h2, h3, p, ul, li, button {
 }
 
 body {
-    font-family: Arial, sans-serif;
-    box-sizing: border-box;
-    background: linear-gradient(to top, #555, #000); /* Light gray to black gradient */
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(to bottom, #1a1a1a, #333);
     color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 /* Header Styles */
